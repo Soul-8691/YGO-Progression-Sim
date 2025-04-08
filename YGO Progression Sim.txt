@@ -1,0 +1,38 @@
+Set card prices
+Buy cards with Duelist Points
+Set pack initial prices
+Set pack additional prices
+Buy packs with Duelist Points
+Wager cards at random
+Gain/lose wagered cards
+Gain/lose Duelist Points
+Collect cards
+
+Hello! Welcome to YGO Progression Sim v0.0.1. With this sim, you can simulate opening packs, buying cards, and gaining/losing Duelist Points, all within command line. Would you like to start a new session, or continue an existing session?
+- New session
+- Continue session
+
+New session:
+Okay, please construct an initial trunk. What cards would you like to add?
+
+Great! Next, construct initial packs you can open once you win a duel. What cards do you want to be in the packs?
+
+Good; now, let's set the card rarities.
+
+Great. Now, let's choose what cards are available to buy with Duelist Points at the start of the game.
+
+Awesome. Now, time to set the prices.
+
+Alright, now that you've set the initial game variables, please go through the process again, creating unlockable packs and cards to buy for when you've progressed to a certain point, either through beating the same duelist a certain number of times, acheiving victory in a certain way a certain number of times, acheiving a win streak of a certain length, etc. Make sure to assign tags to each pack and card with the unlock condition.
+
+Perfect! Now, assign yourself a number of Duelist Points for the start of the game.
+
+Great; now, what opponents will you face, what are their decks, and how many Duelist Points will they give upon defeat? Enter cards here.
+
+Purrfect. Would you like to specify any ways of earning extra Duelist Points? Enter them here.
+
+Cool. Also, how many cards do you want to wager per duel? Select a number from 0 to 5.
+
+Great. Do you want to lose Duelist Points upon loss? If so, set the number of points to lose.
+
+Awesome, dude. With that, you are ready to begin your card collection progression sim!
